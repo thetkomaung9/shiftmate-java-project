@@ -1,0 +1,8 @@
+.DS_Store
+bin/
+out/
+shiftmate.db
+resources/firebase-key.json
+y/
+.classpath
+.project
